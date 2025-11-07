@@ -1,0 +1,6 @@
+@kolos_próbny_HostAddress = http://localhost:5103
+
+GET {{kolos_próbny_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
